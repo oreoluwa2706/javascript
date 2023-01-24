@@ -1,0 +1,26 @@
+body {
+  background: green;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+h1 {
+  color: goldenrod;
+}
+#message-el {
+  font-style: italic;
+}
+#button1,
+#newcard {
+  background-color: goldenrod;
+  color: green;
+  width: 150px;
+  padding: 5px;
+  font-weight: bolder;
+  border: none;
+  border-radius: 2px;
+}
